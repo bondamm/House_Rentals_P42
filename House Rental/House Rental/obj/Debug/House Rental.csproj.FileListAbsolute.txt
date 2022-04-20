@@ -1,0 +1,16 @@
+C:\Users\bondamm\Desktop\House Rental\House Rental\bin\Debug\House Rental.exe.config
+C:\Users\bondamm\Desktop\House Rental\House Rental\bin\Debug\House Rental.exe
+C:\Users\bondamm\Desktop\House Rental\House Rental\bin\Debug\House Rental.pdb
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.csproj.AssemblyReference.cache
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.csproj.SuggestedBindingRedirects.cache
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Properties.Resources.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Tenants.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.csproj.GenerateResource.cache
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.csproj.CoreCompileInputs.cache
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.exe
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House Rental.pdb
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Landforms.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Login.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Apartments.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Categories.resources
+C:\Users\bondamm\Desktop\House Rental\House Rental\obj\Debug\House_Rental.Rents.resources
